@@ -14,26 +14,11 @@ _Use GitHub Actions to publish your project to a Docker image._
 </header>
 
 <!--
-
   <<< Author notes: Step 4 >>>
-
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-
-## Step 3: Merge your changes
-
-_Let's get publishing! :heart:_
-
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your changes!
-
-### :keyboard: Activity: Merge your changes
-
-1. Merge your changes from `cd` into `main`. If you created the pull request in step 1, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in step 1.
-1. (optional) Delete the branch `cd`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-=======
 ## Step 4: Pull your image
 
 _Now things are running! :sparkles:_
@@ -125,7 +110,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
 
 <footer>
 
